@@ -474,7 +474,7 @@ ul.email-right-header li a {
 }
 
 .site-description h1,.site-description h2,.site-description h3,.site-description p,.site-description a,.site-description div {
-    color: #666
+    color: yellow;
 }
 
 .footer-separator {
